@@ -1,19 +1,15 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import './index.css'
-
-// Component
-// State
-// Lifecycle
-// UI
-
+import Popular from './components/Popular'
 
 
 class App extends React.Component {
     render() {
+        
         return (
-            <div>
-                ✋ Hello Wilds!
+            <div className='container'>
+                <Popular />
             </div>
         ) 
     }
