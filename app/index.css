@@ -1,8 +1,7 @@
 html, body, #app {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-    width: 100%;
+  margin: 0;
+  height: 100%;
+  width: 100%;
 }
 
 body {
@@ -69,7 +68,7 @@ li {
   margin: 0 auto;
   display: block;
 }
- 
+
 .center-text {
   text-align: center;
 }
@@ -133,9 +132,9 @@ li {
   font-size: 25px;
 }
 
-.battle-instructions li{
+.battle-instructions li {
   flex: 1;
-  min-width: 300px;
+  min-width: 300px
 }
 
 .battle-instructions svg {
@@ -159,7 +158,7 @@ li {
   padding: 10px;
 }
 
-.player label {
+.player-label {
   font-size: 20px;
   margin: 5px 0;
   font-weight: 300;
@@ -230,8 +229,6 @@ li {
   margin-left: 10px;
 }
 
-
-
-
-
-
+.btn-space {
+  margin: 40px auto;
+}
