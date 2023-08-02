@@ -1,7 +1,7 @@
 # Github Battle Game ::robot::
 
 <h1 align="center">Github Battle</h1>
-<p align="center"> <img src = "https://imgur.com/CXd4VV5" /></p>
+<p align="center"> <img src = "https://i.imgur.com/CXd4VV5.png" /></p>
 
 <!-- PROJECT SHIELDS -->
 <!--
